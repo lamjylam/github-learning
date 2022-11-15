@@ -1,5 +1,6 @@
 # github-learning
-Tips for using GitHub for organizing research
+Tips for using GitHub for organizing research<br>
+Thank you to YorkU for providing a workshop on this! https://yorkulibraries-ds.github.io/carpentries-rr-vc/ 
 
 ## About me
 <b>Name:</b> Janice Lam
